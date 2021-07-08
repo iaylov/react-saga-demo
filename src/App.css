@@ -1,0 +1,21 @@
+body {
+  background: #000;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: large;
+  text-align: center;
+  background: #333;
+  color: #ccc;
+}
+
+.App button {
+  background: #ccc;
+  margin-top: 1rem;
+  width: 10rem;
+  padding: 1rem 2rem;
+  font-size: larger;
+}
